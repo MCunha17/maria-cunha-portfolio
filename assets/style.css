@@ -20,7 +20,17 @@ nav ul {
     min-width:300px;
 }
 
+/* Main Style */
+main {
+    margin:0 3%;
+}
+
 /* Heading Styles */
 h1 {
     font-size:32px;
 }
+
+h2 {
+    font-size:18px;
+}
+
