@@ -1,11 +1,26 @@
 body {
-    background: #faf9ff;
+    background:#faf9ff;
     font-family:Arial, Helvetica, sans-serif;
     color:#454545;
     font-size:14px;
 }
 
-/* Header Styles */
+/* Header Style */
+header {
+    display:flex;
+    justify-content:space-between;
+    padding-top:2%;
+    margin:0 3%;
+}
+
+/* Nav Style */
+nav ul {
+    display:flex;
+    justify-content:space-between;
+    min-width:300px;
+}
+
+/* Heading Styles */
 h1 {
-    font-size: 18px;
+    font-size:32px;
 }
