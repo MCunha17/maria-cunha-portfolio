@@ -1,25 +1,26 @@
 body {
-    background:#faf9ff;
+    background-color:#edeef6;
     font-family:Arial, Helvetica, sans-serif;
     color:#454545;
-    font-size:14px;
+    font-size:16px;
+
 }
 
 /* Heading Styles */
 h1 {
-    font-size:32px;
+    font-size:72px;
 }
 
 h2 {
-    font-size:18px;
+    font-size: 42px;
+    text-align: right;
 }
 
 /* Header Section Style */
 header {
     display:flex;
-    justify-content:space-between;
-    padding-top:2%;
-    margin:0 3%;
+    padding-top:10px;
+    margin:100px;
 }
 
 /* Nav Style */
@@ -29,19 +30,32 @@ nav ul {
     min-width:300px;
 }
 
+main {
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
 /* Section Styles */
 section {
     display:flex;
-    flex-wrap: wrap;
+    flex: flex-wrap;
+    margin-top: 30px;
 }
 
 .aside {
     width: 25%;
+    border-right-style: solid;
+    border-color:blueviolet;
+    padding-right: 20px;
+    white-space: nowrap;
 }
 
 .content {
     flex: 4;
     width: 75%;
+    justify-content: space-between;
+    padding-left: 40px;
+    padding-right: 80px;
 }
 
 .projects-1 {
@@ -55,16 +69,16 @@ section {
 .projects-2 {
   display: flex;
   flex-direction: row;
-  flex-wrap;
-  align-items: flex-end;
+  flex-wrap: wrap;
+  justify-content: space-between;
 }
 
 .card {
   border-style: solid;
   border-width: 6px;
   border-color:lightblue;
-  flex: 1 0 0;
-  margin-top: 10px;
+  flex: 0.49;
+  margin-top: 15px;
 }
 
 .card img {
