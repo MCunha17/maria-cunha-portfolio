@@ -5,7 +5,16 @@ body {
     font-size:14px;
 }
 
-/* Header Style */
+/* Heading Styles */
+h1 {
+    font-size:32px;
+}
+
+h2 {
+    font-size:18px;
+}
+
+/* Header Section Style */
 header {
     display:flex;
     justify-content:space-between;
@@ -22,15 +31,38 @@ nav ul {
 
 /* Main Style */
 main {
-    margin:0 3%;
+    display:flex;
+    flex-wrap: wrap;
 }
 
-/* Heading Styles */
-h1 {
-    font-size:32px;
+
+/* Projects Section Styles */
+.projects {
+    flex: 2;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
-h2 {
-    font-size:18px;
+/* Project Card Styles */
+.card {
+    border-style: solid;
+    border-width: 6px;
+    border-color: lightblue;
+    flex: 0 0 500px;
 }
 
+.card header {
+    text-align: center;
+}
+
+.card image {
+    width: 100%
+}
+
+@media screen and (max-width: 768px) {
+    main,
+    nav {
+      flex-direction: column;
+    }
+  }
