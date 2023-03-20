@@ -27,15 +27,22 @@
             <article class="aside">
                 <h2 id="about">About</h2>
             </article>
-            <article class="content-2">
-                <div class="profile">
-                    <div class="maria">
-                        <img class="cunha" src="./maria-cunha.jpeg">
+            <article class="about-content">
+                <!-- Self Photo -->
+                <element class="profile">
+                    <div class="portrait-container">
+                        <img class="portrait" src="./maria-cunha.jpeg" alt="Self Photo">
                     </div>
+                    <!-- About Paragraph -->
                     <div class="bio">
-                        <p>As a product marketing professional, I have spent the last few years working in the tech industry, promoting and launching software products. However, I have always had a passion for technology and a desire to be more involved in the development process. Over time, I have come to realize that I want to transition into a career as a developer. My background in product marketing has provided me with valuable skills such as project management, collaboration, and communication. I have worked closely with development teams and have a solid understanding of the software development process. However, I want to expand my skill set and become more involved in the technical aspects of product development. To achieve this, I have been taking online courses in programming languages such as Python and JavaScript. I have also been working on personal projects, such as building simple web applications, to gain hands-on experience. My goal is to become a full-stack developer and contribute to the creation of innovative software products. I am excited about the prospect of combining my marketing background with my newfound technical skills to create impactful products. I am confident that my strong work ethic, determination, and willingness to learn will enable me to succeed in this new career path.</p>
+                        <p>With over a decade of experience in product marketing for the advertising technology industry, I have always had a desire to be more involved in product creation and am now transitioning into a career as a developer.<br>
+                            <br>
+                            Through my background in product marketing, I've developed valuable skills in project management, collaboration, and communication. Working closely with development teams has also given me a solid understanding of the software development process.<br>
+                            <br>
+                            I'm currently expanding my technical skills through a coding bootcamp and personal projects. My goal is to become a full-stack developer and contribute to the creation of innovative software. I'm thrilled at the opportunity to combine my marketing background with my newfound technical skills to create impactful solutions.
+                        </p>
                     </div>
-                </div>
+                </element>
             </article>
         </section>
 
@@ -44,62 +51,50 @@
             <article class="aside">
                 <h2 id="work">Work</h2>
             </article>
-            <article class="content">
-                <div class="projects-1">
-                    <div class="primary-image-column">
-                        <img class="primary-image" src="./refactored-site.png"></a>
-                    </div>
+            <!-- Top Project Photo -->
+            <article class="primary-project-content">
+                <!-- Refactored Code Project -->
+                <element class="primary-project-column">
+                        <img class="primary-project-image" src="./refactored-site.png"></a>
                     <div class="primary-project-title">
                         <a href="https://mcunha17.github.io/accessibility-site-refactor/"><h3>Refactored Code</h3></a>
                         <h4>HTML/CSS/JS</h4>
                     </div>
-                </div>
-
-                <div class="projects-2">
-                    <div class="project">
-                        <div class="card">
-                            <a href="https://github.com/MCunha17"><img src="./coding-image-4.jpg"></a>
-                        </div>
+                </element>
+                <!-- Bottom Project Photos -->
+            <article class="secondary-project-content">
+                    <!-- Client Site App Project -->
+                    <element class="card">
+                        <a href="https://github.com/MCunha17"><img class="project-image" src="./client-site-app.jpg"></a>
                         <div class="project-title">
                             <a href="https://github.com/MCunha17"><h3>Client Site App</h3></a>
                             <h4>APIs/JSON</h4>
                         </div>
-                    </div>
-
-                    <div class="project">
-                        <div class="card">
-                            <a href="https://github.com/MCunha17"><img src="./coding-image-6.jpg"></a>
-                        </div>
+                    </element>
+                    <!-- Web App Project -->
+                    <element class="card">
+                        <a href="https://github.com/MCunha17"><img class="project-image" src="./web-app.jpg"></a>
                         <div class="project-title">
                             <a href="https://github.com/MCunha17"><h3>Web App</h3></a>
                             <h4>Node/IoT</h4>
                         </div>
-                    </div>
-                </div>
-
-                <div class="projects-2">
-                    <div class="project">
-                        <div class="card">
-                            <a href="https://github.com/MCunha17"><img src="./coding-image-3.jpg"></a>
-                        </div>
+                    </element>
+                    <!-- EasyGo Game Project -->
+                    <element class="card">
+                        <a href="https://github.com/MCunha17"><img class="project-image" src="./easygo-game.jpg"></a>
                         <div class="project-title">
                             <a href=https://github.com/MCunha17><h3>EasyGo Game</h3></a>
                             <h4>React/NoSQL</h4>
                         </div>
-                    </div>
-
-                    <div class="project">
-                        <div class="card">
-                            <a href="https://github.com/MCunha17"><img src="./coding-image.png">
-                        </div>
+                    </element>
+                    <!-- Single-Page App Project -->
+                    <element class="card">
+                        <a href="https://github.com/MCunha17"><img class="project-image" src="./singe-page-app.jpg"></a>
                             <div class="project-title">
-                                <a href="https://github.com/MCunha17"><h3>Single-Page App</h3></a>
-                                <h4>MERN Stack</h4>
+                                <a href="https://github.com/MCunha17"><h3>Single-Page App</h3></a><h4>MERN Stack</h4>
                             </div>
                         </div>
-                    </div>
-                </div>
-
+                    </element>
             </article>
         </section>
 
@@ -108,8 +103,14 @@
             <article class="aside">
                 <h2 id="contact">Contact</h2>
             </article>
-            <article class="footer">
-                <div>312-888-6917</div>
-                <div>cunha.maria.theresa@gmail.com</div>
+            <article class="contact">
+                <div id="phone">312-888-6917</div>
+                <div id="email">cunha.maria.theresa@gmail.com</div>
+                <div id="git-hub"><a href="https://github.com/MCunha17">MCunha17</a></div>
             </article>
         </section>
+
+<!-- Footer Section-->
+<footer>
+    <h5> Created by Maria Cunha, 2023. </h5>
+</footer>
