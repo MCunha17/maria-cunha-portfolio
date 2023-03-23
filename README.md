@@ -9,6 +9,12 @@ At this time, the only project shared in this portfolio is a site refactor I com
 
 When creating this page, I had the opportunity to practice my CSS skills. Specifically with creating flex boxes and adjusting positioning, padding, and margin so that the site was responsive.
 
+## Screenshot
+
+Here is a screenshot of the published portfolio:
+
+![Screenshot of Maria Cunha's Pubished Portfolio](assets/images/maria-cunha-portfolio-screenshot.png)
+
 ## Credits
 
 Primary Image: The primary image came from my <a href="https://github.com/MCunha17/accessibility-site-refactor">Accessibility Site Refactor project</a>, which borrowed code and imagery from <a href="https://github.com/coding-boot-camp/urban-octo-telegram">Xandromus</a>.
