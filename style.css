@@ -67,7 +67,7 @@ section {
 
 /* Header Section Style */
 header {
-    background-image: url('images/header-image.jpg');
+    background-image: url('header-image.jpg');
     display:flex;
     flex-wrap: wrap;
     margin: 10px;
