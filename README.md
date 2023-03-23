@@ -1,4 +1,4 @@
-Maria Cunha Development Portfolio
+# Maria Cunha Development Portfolio
 ## Description
 
 My professional portfolio to showcase development work.
