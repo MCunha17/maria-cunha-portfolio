@@ -100,8 +100,8 @@ section {
 /* "About" Content Style */
 .about-content {
     flex: 75%;
-    width: 100%;
     justify-content: space-between;
+    width: 1000px;
 }
 /* Profile Section Style */
 .profile {
@@ -145,13 +145,15 @@ section {
     border-color:lightblue;
     height: 500px;
     object-fit: cover;
+    width: 1000px;
+    margin-left: -40px;
 }
 /* Primary Project Title Style */
 .primary-project-title {
     background-color: lightblue;
     position: absolute;
     bottom: 60px;
-    padding-left: 15px;
+    padding-left: 20px;
     padding-right: 15px;
 }
 
