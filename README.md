@@ -13,7 +13,7 @@ When creating this page, I had the opportunity to practice my CSS skills. Specif
 
 Here is a screenshot of the published portfolio, which you can access <a href="https://mcunha17.github.io/maria-cunha-portfolio/">here</a>.
 
-![Screenshot of Maria Cunha's Published Portfolio](maria-cunha-portfolio-screenshot.png)
+![Screenshot of Maria Cunha's Published Portfolio](/assets/images/portfolio-screenshot.png)
 
 ## Credits
 
