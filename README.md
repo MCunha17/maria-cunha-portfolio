@@ -28,3 +28,8 @@ EasyGo Game image: <a href="https://www.pexels.com/photo/blue-and-red-galaxy-art
 Single-Page app image: <a href="https://www.pexels.com/photo/multicolored-abstract-painting-1509534/">Steve Johnson</a>.
 
 You can access the repository for my portfolio <a href="https://github.com/MCunha17/maria-cunha-portfolio">here</a>.
+
+## Sources
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">mdn web docs: Cascading Style Sheets</a></br>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries">mdn web docs: Media Queries</a></br>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox">mdn web docs: Basic concepts of flexbox</a></br>
