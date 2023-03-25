@@ -57,7 +57,7 @@ a:visited {
     color: olive;
 }
 
-/* Nav Section Style */
+/* Header Section Style */
 header {
     background-image: url(/assets/images/header-image.jpg);
     display:flex;
@@ -79,7 +79,7 @@ header {
     font-size: 18px;
 }
 
-/* Header Section Style */
+/* Nav Section Style */
 nav {
     position: absolute;
     display: flex;
@@ -101,17 +101,6 @@ nav ul li {
 }
 nav ul li a {
    color: white;
-}
-
-/* Subtitle Section Style */
-#subtitle {
-    position: absolute;
-    margin-right: 5px;
-    margin-bottom: 5px;
-    width: 300px;
-    padding: 5px;
-    background: lightblue;
-    font-size: 18px;
 }
 
 /* Section Style */
