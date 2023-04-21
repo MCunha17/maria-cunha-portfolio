@@ -13,19 +13,11 @@ When creating this page, I had the opportunity to practice my CSS skills. Specif
 
 Here is a screenshot of the published portfolio, which you can access <a href="https://mcunha17.github.io/maria-cunha-portfolio/">here</a>.
 
-![Screenshot of Maria Cunha's Published Portfolio](/assets/images/portfolio-screenshot.png)
+![Screenshot of Maria Cunha's Published Portfolio](/assets/images/portfolio-screenshot-april-2023.png)
 
 ## Credits
 
 Primary Image: The primary image came from my <a href="https://github.com/MCunha17/accessibility-site-refactor">Accessibility Site Refactor project</a>, which borrowed code and imagery from <a href="https://github.com/coding-boot-camp/urban-octo-telegram">Xandromus</a>.
-
-Header and secondary (smaller) images: Obtained from <a href="https://www.pexels.com/">Pexels</a>, which provides free stock photos shared by creators.
-
-Header image: <a href="https://www.pexels.com/photo/coding-script-965345/">Markus Spiske</a>.<br>
-Client Site App image: <a href="https://www.pexels.com/photo/assorted-color-laser-lights-417458/">Pixabay</a>.<br>
-Web App image: <a href="https://www.pexels.com/photo/pink-and-purple-wallpaper-1616403/">Zaksheuskaya</a>.<br>
-EasyGo Game image: <a href="https://www.pexels.com/photo/blue-and-red-galaxy-artwork-1629236/">Suzy Hazelwood</a>.<br>
-Single-Page app image: <a href="https://www.pexels.com/photo/multicolored-abstract-painting-1509534/">Steve Johnson</a>.
 
 You can access the repository for my portfolio <a href="https://github.com/MCunha17/maria-cunha-portfolio">here</a>.
 
